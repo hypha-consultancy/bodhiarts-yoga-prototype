@@ -22,6 +22,6 @@ node build.js ../index.html
 
 ## Still to confirm with Ting Ting
 
-- The year she started Iyengar yoga (2013 or 2014) and her certification level and year
+- The year she started Iyengar yoga (2013 or 2014) and the year she was certified (Level 1, per Iyengar Yoga NZ)
 - Her new self-introduction, which replaces the draft from Four Winds Yoga
 - Blog articles. The blog page currently shows layout samples.
