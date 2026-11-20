@@ -22,7 +22,6 @@ node build.js ../index.html
 
 ## Still to confirm with Ting Ting
 
-- Her English surname (Four Winds Yoga lists Lee, her Facebook page lists Foster)
 - The year she started Iyengar yoga (2013 or 2014) and her certification level and year
 - Her new self-introduction, which replaces the draft from Four Winds Yoga
 - Blog articles. The blog page currently shows layout samples.
